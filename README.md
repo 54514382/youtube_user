@@ -20,7 +20,7 @@ As everyone knows，YouTube（以下简称油管）是全世界最大的视频�
 > https://docs.qq.com/sheet/DVEFhZlFKR1NXVEdN?tab=ht1er
 
 ## 1.4 演示视频
-软件运行演示：[【软件演示】youtube博主采集工具，可爬取上万条，含邮箱！](https://www.bilibili.com/video/BV14ASTYZEFt/)
+软件运行演示：[【软件演示】youtube博主采集工具，可爬取上万条，含邮箱！](https://mp.weixin.qq.com/s/wYz_yLRw_WPHqSj7mWvwhQ)
 
 ## 1.5 软件说明
 几点重要说明，请详读了解：
