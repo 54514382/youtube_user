@@ -7,7 +7,7 @@
 ![爬取目标: 油管博主](https://s2.51cto.com/images/blog/202412/08095449_6754fc69f07c821166.png?x-oss-process=image/watermark,size_14,text_QDUxQ1RP5Y2a5a6i,color_FFFFFF,t_100,g_se,x_10,y_10,shadow_20,type_ZmFuZ3poZW5naGVpdGk=)
 
 As everyone knows，YouTube（以下简称油管）是全世界最大的视频社交平台，拥有上亿的用户群体和海量日活用户。尤其是平台上来自各个国家地区的达人博主，蕴含着巨大的商业价值。通过收集油管的用户数据，客户可以更深入地了解达人博主的最新动向和商业价值，从而更有效地助力业务合作。
-因此，我用python开发了一个爬虫采集工具，叫"爬油管博主软件"，如下。
+因此，我用python开发了一个爬虫采集工具，叫"**爬油管博主软件**"，如下。
 ## 1.2 软件界面
 软件界面，如下：（目前已升级至v1.7版）<img width="900" height="678" alt="v1 7" src="https://github.com/user-attachments/assets/be718647-0e22-49c7-bce4-67147be5a1b3" />
 
@@ -20,7 +20,7 @@ As everyone knows，YouTube（以下简称油管）是全世界最大的视频�
 > https://docs.qq.com/sheet/DVEFhZlFKR1NXVEdN?tab=ht1er
 
 ## 1.4 演示视频
-软件运行演示：[【软件演示】youtube博主采集工具，可爬取上万条，含邮箱！](https://mp.weixin.qq.com/s/wYz_yLRw_WPHqSj7mWvwhQ)
+软件运行完整演示视频：[【软件演示】油管红人挖掘器](https://mp.weixin.qq.com/s/wYz_yLRw_WPHqSj7mWvwhQ)
 
 ## 1.5 软件说明
 几点重要说明，请详读了解：
@@ -119,9 +119,12 @@ if country_list != ['']:  # 国家不是空
 季卡：使用期限3个月，399元。季卡可多次购买。适合中期采集需求
 年卡：使用期限1年，799元。年卡可多次购买。适合长期采集需求
 ```
-付费方式：<img width="1528" height="918" alt="收款码v2" src="https://github.com/user-attachments/assets/ec8e8a5f-9d0c-4edd-8498-324c571cb2c3" />
+**1）付费方式一：（手动获取，付费后加我微信（493882434）对接卡密）**
+<img width="2324" height="604" alt="收款码v5" src="https://github.com/user-attachments/assets/cf24423c-2c75-47d8-b9c1-c86093488283" />
 
-付费后，加我v（493882434）自动掉落登录卡密。
+**2）付费方式二：（自动获取， 自己付费自己拿卡密，无需加v对接）**
+
+自助开通入口：https://kjyjf.xetlk.com/s/ptQuS
 
 ## 4.2 一机一码
 软件采用一机一码机制，一个卡密只能在一台电脑运行、不可多电脑运行。
@@ -131,7 +134,7 @@ if country_list != ['']:  # 国家不是空
 ## 4.4 软件维护
 软件由本人独立原创开发，长期维护更新，提供稳定运行​。
 
-# 五、软件首发
-"**爬油管博主软件**"首发于公众号"**老男孩的平凡之路**"，欢迎交流！
-![二维码-公众号放底部](https://github.com/user-attachments/assets/b98aa9f5-aff2-450f-995d-b5df0172da08)
+# 五、软件获取
+公众号"**老男孩的平凡之路**"后台回复：**爬油管博主软件**
+<img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/32ebd9d5-a244-4d60-a6f0-8d714afe1ec8" />
 
